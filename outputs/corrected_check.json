@@ -1,0 +1,12 @@
+{
+  "table": "training.to6_challenge3_inputs.returns_corrected",
+  "decision": "accepted",
+  "checked_at_utc": "2026-11-20T16:35:16Z",
+  "rules": [
+    "completeness of return_id, tax_year, income, deduction",
+    "return_id unique",
+    "amounts nonnegative"
+  ],
+  "violations": 0,
+  "accepted_rows": 12
+}

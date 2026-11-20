@@ -1,0 +1,43 @@
+{
+  "run_a": {
+    "file": "run_2026-11-20T163332Z.json",
+    "run_started_utc": "2026-11-20T16:33:32Z",
+    "notebook_url": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866558664"
+  },
+  "run_b": {
+    "file": "run_2026-11-20T163516Z.json",
+    "run_started_utc": "2026-11-20T16:35:16Z",
+    "notebook_url": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866558664"
+  },
+  "tables": {
+    "training.to6_c3_1c198aff1c3c.return_features": {
+      "identical_ids_and_values": true,
+      "row_count_a": 12,
+      "row_count_b": 12,
+      "sha256_a": "841fdf56be3a967b79e6ab99f74018e2f85fe148f4fc2c1c302ab44b31660d83",
+      "sha256_b": "841fdf56be3a967b79e6ab99f74018e2f85fe148f4fc2c1c302ab44b31660d83"
+    },
+    "training.to6_c3_1c198aff1c3c.features_train": {
+      "identical_ids_and_values": true,
+      "row_count_a": 4,
+      "row_count_b": 4,
+      "sha256_a": "6c9b827f9851b7089c3d042d29b255f1b96786d56dbe23f88be31b3999189dc5",
+      "sha256_b": "6c9b827f9851b7089c3d042d29b255f1b96786d56dbe23f88be31b3999189dc5"
+    },
+    "training.to6_c3_1c198aff1c3c.features_validation": {
+      "identical_ids_and_values": true,
+      "row_count_a": 4,
+      "row_count_b": 4,
+      "sha256_a": "a374534a2d527389251b836ef2ca4e1b5201b5a0475de4ef2da3976b63cf94ad",
+      "sha256_b": "a374534a2d527389251b836ef2ca4e1b5201b5a0475de4ef2da3976b63cf94ad"
+    },
+    "training.to6_c3_1c198aff1c3c.features_test": {
+      "identical_ids_and_values": true,
+      "row_count_a": 4,
+      "row_count_b": 4,
+      "sha256_a": "aab3b12619b48b896b80fd19116a0b78189fabb786b62a356571eb1d6d9e3f9d",
+      "sha256_b": "aab3b12619b48b896b80fd19116a0b78189fabb786b62a356571eb1d6d9e3f9d"
+    }
+  },
+  "all_identical": true
+}

@@ -1,0 +1,9 @@
+{
+  "table": "training.to6_challenge3_inputs.returns_initial",
+  "decision": "rejected",
+  "checked_at_utc": "2026-11-20T16:35:16Z",
+  "notebook": "https://dbc-48a16403-f66f.cloud.databricks.com/editor/notebooks/127024866558664",
+  "saved_table": "training.to6_c3_1c198aff1c3c.initial_rejected_records",
+  "message": "training.to6_challenge3_inputs.returns_initial rejected: 3 affected record(s): [('completeness', 'R02', 'required field income is null'), ('uniqueness', 'R01', 'return_id occurs 2 times; each return must occur exactly once')]",
+  "next_action": "Reported to data owner; use replacement training.to6_challenge3_inputs.returns_corrected after it passes the same checks."
+}

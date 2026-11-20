@@ -1,0 +1,5 @@
+return_id,tax_year,deduction_to_income
+R01,2022,0.2
+R02,2022,0.165
+R03,2022,
+R04,2022,0.1475
